@@ -1,0 +1,21 @@
+@relation airline_passengers-weka.filters.unsupervised.instance.RemovePercentage-P30.0-weka.filters.unsupervised.instance.RemovePercentage-P30.0-weka.filters.unsupervised.instance.RemovePercentage-P30.0-weka.filters.unsupervised.instance.RemovePercentage-P30.0-V
+
+@attribute passenger_numbers numeric
+@attribute Date date yyyy-MM-dd
+
+@data
+271,1956-11-01
+306,1956-12-01
+315,1957-01-01
+301,1957-02-01
+356,1957-03-01
+348,1957-04-01
+355,1957-05-01
+422,1957-06-01
+465,1957-07-01
+467,1957-08-01
+404,1957-09-01
+347,1957-10-01
+305,1957-11-01
+336,1957-12-01
+340,1958-01-01
